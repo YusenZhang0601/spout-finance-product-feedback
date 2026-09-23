@@ -1,0 +1,27 @@
+{
+  "latest_user_attachment": {
+    "path": "evidence/review_attachment.md",
+    "sha256": "9a1480f9ab1a86af20b855a2cd86fe7030ec3ed6715167c7786d967148da24c9",
+    "type": "one Markdown report with seven embedded deliverables"
+  },
+  "prior_package_available": true,
+  "claimed_new_files_not_attached": [
+    "BOUNTY_REQUIREMENTS.md",
+    "evidence/screenshots/superteam_bounty_live.png",
+    "evidence/screenshots/superteam_submit_modal.png",
+    "evidence/screenshots/spout_homepage.png",
+    "evidence/screenshots/spout_beta_gateway.png",
+    "evidence/spout_beta_access_request.md",
+    "raw DOM / JSON-LD"
+  ],
+  "browser_work_by_AntiGravity": "self-reported; absence of attachments does not prove the work was not done",
+  "reviewer_network": "Official pages read via web tool; container HTTPS fetch attempted but failed DNS; no full raw listing HTML acquired",
+  "reviewer_beta": "No authenticated browser session or onchain execution",
+  "input_csv": {
+    "test_log_rows": 11,
+    "test_log_columns": 13,
+    "finding_header_columns": 9,
+    "F04_actual_columns": 10
+  },
+  "publication": "No actual public report or post links supplied; example URLs are placeholders"
+}

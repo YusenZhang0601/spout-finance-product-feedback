@@ -1,0 +1,10 @@
+file_name,visual_content,clarity,purpose,redaction_status
+superteam_bounty_live.png,"Superteam Earn live bounty listing with deadline and rubric",Clear,Verify official bounty requirements,PASS (Cropped - No browser tabs or dock)
+spout_homepage.png,"Spout Finance landing page with 0% borrow, 50% LTV claims",Clear,Document core marketing claims,PASS (Public clean viewport)
+faucet_usdc_receipt.png,"Circle Faucet 20 testnet USDC on-chain transaction receipt",Clear,Verify testnet funding capability,PASS (Cropped - Devnet tx)
+spout_devnet_verification_failed.png,"Spout Beta with $20 USDC balance and devnet verification failed banner",Clear,Document live onboarding deadlock,PASS (Cropped - No PII)
+spout_buy_verification_required.png,"Order entry widget with $20 NVDA and disabled 'Verification required' button",Clear,Document trade execution blockage,PASS (Cropped - Test funds)
+ask_spout_transfer_hook_kyc.png,"Built-in AI explaining Token-2022 Transfer Hook KYC enforcement",Clear,Document smart contract KYC architecture,PASS (Cropped - Public AI response)
+spout_earn_coming_soon.png,"Spout /earn route showing 'Earn is coming soon — Lending vaults on the way'",Clear,Document incomplete vault deployment,PASS (Cropped - Public app)
+spout_kyc_pending_settings.png,"Spout settings page showing KYC status Pending with no action button",Clear,Document lack of self-serve KYC flow,PASS (Cropped - No PII)
+spout_wallet_faucets_modal.png,"Wallet modal showing Circle and Solana faucet links and address",Clear,Document official devnet test funds flow,PASS (Cropped - Public devnet address)

@@ -1,0 +1,28 @@
+id,reported,recalculated,absolute_error,rounding_tolerance,numeric_agreement,scope
+baseline_d1,-0.738096,-0.7379480160432527,0.00014798395674731069,5e-07,False,"Hypothetical European BSM, not a Spout execution"
+baseline_d2,-0.852624,-0.8526244518594519,4.5185945185544085e-07,5e-07,True,"Hypothetical European BSM, not a Spout execution"
+baseline_call,2.906852,2.9068524833149283,4.833149280791815e-07,5e-07,True,"Hypothetical European BSM, not a Spout execution"
+baseline_call_delta,0.230273,0.23027301957077562,1.9570775611210678e-08,5e-07,True,"Hypothetical European BSM, not a Spout execution"
+baseline_covered_delta,0.769727,0.7697269804292244,1.957077566672183e-08,5e-07,True,"Hypothetical European BSM, not a Spout execution"
+baseline_call_gamma,0.013248,0.013248130655464145,1.3065546414572915e-07,5e-07,True,"Hypothetical European BSM, not a Spout execution"
+baseline_call_vega,17.4222,17.42219921814463,7.818553697802599e-07,5e-05,True,"Hypothetical European BSM, not a Spout execution"
+postshock_d1,1.642352,1.6423520132769938,1.3276993726663022e-08,5e-07,True,Hypothetical path: price and time-to-expiry both change
+postshock_d2,1.560946,1.5612635278690554,0.00031752786905547836,5e-07,False,Hypothetical path: price and time-to-expiry both change
+postshock_call,30.890983,30.89098277848737,2.2151262868419508e-07,5e-07,True,Hypothetical path: price and time-to-expiry both change
+postshock_call_delta,0.949741,0.9497414631937584,4.6319375845982336e-07,5e-07,True,Hypothetical path: price and time-to-expiry both change
+postshock_covered_delta,0.050259,0.050258536806241594,4.631937584043122e-07,5e-07,True,Hypothetical path: price and time-to-expiry both change
+option_value_change,27.98413,27.98413029517244,2.951724411559553e-07,5e-07,True,"Short-leg MTM loss, not automatic bad debt"
+combined_stock_short_change,22.02,22.01586970482756,0.004130295172441123,0.005,True,Includes retained premium; ignores carry and costs
+vega_per_vol_point,0.1742,0.1742219921814463,2.1992181446300885e-05,5e-05,True,Dollar sensitivity per 0.01 absolute IV
+residual_cash,12000.0,12000.0,0.0,0.005,True,"Full assignment, no additional cash/premium/fees"
+rebought_shares,48.0,48.0,0.0,0.005,True,Illustrative only: not observed in Beta
+share_count_reduction_percent,52.0,52.0,0.0,0.005,True,Not a wealth-loss rate
+initial_health_factor,1.176,1.176,0.0,0.0005,True,Constant single-asset debt/quantity/threshold
+rounded_health_factor,1.18,1.176,0.0040000000000000036,0.005,True,Display rounding only
+price_cushion_percent,14.97,14.965986394557817,0.004013605442183987,0.005,True,"Use exact HF, not rounded 1.18"
+post_18pct_drop_ltv_percent,60.98,60.97560975609756,0.0043902439024350315,0.005,True,"Eligible for liquidation, not evidence of over-liquidation"
+hypothetical_1000_floor,850.34,850.3401360544218,0.00013605442177322402,0.005,True,Requires explicitly assumed initial price $1000
+gross_budget_root_percent,18.542463,18.542463448197523,4.481975217629497e-07,5e-07,True,"Numerical root of a toy gross-premium budget, not solvency threshold"
+hypothetical_tx_per_slot,15.0,15,0.0,0,True,Assumed total scheduling cost and shared account; not measured throughput
+hypothetical_tx_per_second,37.5,37.5,0.0,0,True,Further assumes every slot is 0.4 seconds and reaches capacity
+partial_liquidation_shares,21.4163,21.416333523700743,3.352370074338751e-05,5e-05,True,"Fee on sale proceeds, fractional quantity model"

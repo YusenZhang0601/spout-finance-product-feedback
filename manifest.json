@@ -1,0 +1,178 @@
+{
+  "scope": "Spout Finance Product Feedback Bounty V3 Final Closeout Deliverables",
+  "author": "Yusen Zhang (@Tonypyl, GitHub: YusenZhang0601)",
+  "timestamp_utc": "2026-09-23 11:30:00 UTC",
+  "files_count": 34,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 69,
+      "sha256": "88f7927e6069b04eb50a6d136aed9862a318b297c0b556d7524383b266f324a4"
+    },
+    {
+      "path": "BOUNTY_REQUIREMENTS.md",
+      "bytes": 3386,
+      "sha256": "9b5638ec8f44e5913ee33e2b1a6111ef4c364dc6ec13d469d355270592c3542d"
+    },
+    {
+      "path": "CHANGELOG_FROM_V2_TO_V3.md",
+      "bytes": 5335,
+      "sha256": "0a0fad9dfa3ddf2345ea1fa2812d4e5ccf325eff2f3922bcb2d476be097e5701"
+    },
+    {
+      "path": "FINAL_GATE.md",
+      "bytes": 3277,
+      "sha256": "4f9aad8a1c85f8f17e7bc615b8569269a0aa8cf98f6821384d5ba9cafe958bd8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9976,
+      "sha256": "bf42c95f4865b300d854420297590f9cdd1bbb8ce41818fb57b5d5da2c4063bb"
+    },
+    {
+      "path": "README_STATUS.md",
+      "bytes": 5904,
+      "sha256": "9750964d6ab74d02ac39ca4f962b37072b943f1a948c86a952b752c37aab26fe"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1476,
+      "sha256": "c3aa870ae72eade5796957743822e580b80823614d40e5642212d67e0e864bc1"
+    },
+    {
+      "path": "calculations/audit_model.py",
+      "bytes": 21183,
+      "sha256": "a39857ae3f0d5a3bb339696a6d468609a26c9ab1d8979df4d0c6c6e4826d6a1d"
+    },
+    {
+      "path": "calculations/final_numeric_review.py",
+      "bytes": 7138,
+      "sha256": "36440c11e6e408ad9a9b7b5f5bb40ce06cee49e8bb8ea9bf7a61168eb954d8c4"
+    },
+    {
+      "path": "calculations/final_numeric_review_run.txt",
+      "bytes": 253,
+      "sha256": "695086ddb4660d949fb831307b6727a7680de4912147130b70bba848e5736c49"
+    },
+    {
+      "path": "calculations/numeric_comparisons.csv",
+      "bytes": 3435,
+      "sha256": "baf376fd3351f15fabeb48a43bb1ad60d96630f0dfa2fa48b054984f524abc3a"
+    },
+    {
+      "path": "evidence/10_TWEET_THREAD_DRAFT.md",
+      "bytes": 5111,
+      "sha256": "037878dd2098b93cb0491af3171d0d1ba9544e47e7255f7121c078ceb8499c84"
+    },
+    {
+      "path": "evidence/10_TWEET_THREAD_PLAIN.txt",
+      "bytes": 3001,
+      "sha256": "eee9998bd67b945954b3d253339f04660c84806b8934a2e1978caf756f83a506"
+    },
+    {
+      "path": "evidence/LIVE_BETA_TESTNET_DIAGNOSTIC_EVIDENCE.md",
+      "bytes": 9756,
+      "sha256": "8356b5909d1e104825e412fccc1ec2c3d1f7d340361385bd25f4f493a2acd597"
+    },
+    {
+      "path": "evidence/artifact_availability.json",
+      "bytes": 1179,
+      "sha256": "e2e85f8b115548ca9303309b6408554145cfa2f8a1a3b477b551667dbdafcae4"
+    },
+    {
+      "path": "evidence/finding_register.csv",
+      "bytes": 2059,
+      "sha256": "1cae129748206968fb42727f7877e7c9330e5574c77c38dc8ba4f4088c5bff12"
+    },
+    {
+      "path": "evidence/revised_finding_register.csv",
+      "bytes": 2059,
+      "sha256": "1cae129748206968fb42727f7877e7c9330e5574c77c38dc8ba4f4088c5bff12"
+    },
+    {
+      "path": "evidence/screenshot_visual_checks.csv",
+      "bytes": 1594,
+      "sha256": "b3ff1a9e1ed1377a84768297d85e2b025b0453c35e99c900009d473c68246e85"
+    },
+    {
+      "path": "evidence/screenshots/ask_spout_transfer_hook_kyc.png",
+      "bytes": 339014,
+      "sha256": "09cd42cf91671de6f18c458ecd6b254319e2897f5aadd81320b7c551db76a59c"
+    },
+    {
+      "path": "evidence/screenshots/faucet_usdc_receipt.png",
+      "bytes": 202446,
+      "sha256": "4d160501f52819ae39ca688cb58be580bb726c14821c25c707e73bfcfcfeba6b"
+    },
+    {
+      "path": "evidence/screenshots/spout_buy_verification_required.png",
+      "bytes": 300517,
+      "sha256": "aa5e57e0e4e4a4675f169fddf1dcb89269ae7ecbae14b84ea7663315b89ece6a"
+    },
+    {
+      "path": "evidence/screenshots/spout_devnet_verification_failed.png",
+      "bytes": 330041,
+      "sha256": "e9f01d44f06f231fbfc1a71e231be2b8fc85c6ad31870e7450f6ea75bd6caf0d"
+    },
+    {
+      "path": "evidence/screenshots/spout_earn_coming_soon.png",
+      "bytes": 324214,
+      "sha256": "140ac0196996102d440ae8fc7305d783d10df7c0438364dc32c7a7e8b05931ce"
+    },
+    {
+      "path": "evidence/screenshots/spout_homepage.png",
+      "bytes": 287715,
+      "sha256": "a82e11f1628b548525a2f199840ac451f5c9d15dd5d7fd0bd1b255617cb66d3c"
+    },
+    {
+      "path": "evidence/screenshots/spout_kyc_pending_settings.png",
+      "bytes": 168395,
+      "sha256": "009215e020665b191cce5bb5b45d5e6499714bbfaedc205acd5201d5d73969e5"
+    },
+    {
+      "path": "evidence/screenshots/spout_wallet_faucets_modal.png",
+      "bytes": 309124,
+      "sha256": "7f1faba4cc0c0a6fedc1647a0b5d67fd67e2f7c279203174d6e4bc5cd28f0289"
+    },
+    {
+      "path": "evidence/screenshots/superteam_bounty_live.png",
+      "bytes": 387767,
+      "sha256": "c11a4187fe5a50e66dca8d73374a79789e8f7aa48fe3ff6e571a8e627c1c330b"
+    },
+    {
+      "path": "evidence/source_register.csv",
+      "bytes": 2715,
+      "sha256": "6f762324675020d087636c18cddd27f5f9c4c940b0cee515caf9a6849bd84cd7"
+    },
+    {
+      "path": "evidence/spout_beta_access_request.md",
+      "bytes": 1830,
+      "sha256": "911691278d9560d41596e64d1be2f4461e5fe2ccfb7fe76565f8247906eb31b6"
+    },
+    {
+      "path": "evidence/superteam_next_data.json",
+      "bytes": 6988,
+      "sha256": "c24424d3c7dbbb3577ecddeacf2d6b488e497b7d1b457b98cd5134bdb4fda377"
+    },
+    {
+      "path": "evidence/test_log.csv",
+      "bytes": 6655,
+      "sha256": "89296cf8fb26dab09826467e995bd7993958fb121093c84e5f58ae2f3ad01378"
+    },
+    {
+      "path": "public_teardown_draft_en.md",
+      "bytes": 4731,
+      "sha256": "2f94cf6b25e3e23e7e5a308efd14f53b771866e9c88ca57f2cf4b000453022fc"
+    },
+    {
+      "path": "submission_fields_draft.md",
+      "bytes": 3257,
+      "sha256": "06981f75a40f3a6d5937f2f52468621ec072d54389d35fdb1540e50b1635985f"
+    },
+    {
+      "path": "submission_report_en.md",
+      "bytes": 16920,
+      "sha256": "17c48a66b00f50788b6462ba21cbaaeb187ab5655fe46b3f175aa4bd366748ac"
+    }
+  ]
+}

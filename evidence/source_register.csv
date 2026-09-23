@@ -1,0 +1,19 @@
+source,url,verification_note,review_date
+Listing,https://superteam.fun/earn/listing/product-feedback-spout-finance/,Public page: prize allocation and scheduled announcement September 28. Dynamic deadline/full rules not readable; counter varies by snapshot.,2026-09-23
+Listing contact,https://t.me/iamgabrielll,Destination obtained by following the listing Reach out link; not proof this is the only beta-access channel.,2026-09-23
+Homepage,https://spout.finance/,"Broad share retention and withdrawal copy; issuer claim, not independent verification.",2026-09-23
+Assignment,https://spout.finance/docs/options-assignment/,"Strike sale, debt priority, residual reinvestment description.",2026-09-23
+Borrowing,https://spout.finance/docs/how-borrowing-works/,Repayment and next-close exit description.,2026-09-23
+Lifecycle,https://spout.finance/docs/borrowing-lifecycle/,Documented skip of individual-stock cycles crossing earnings.,2026-09-23
+Withdrawals,https://spout.finance/docs/withdrawals/,"Senior immediate reserve route, Junior notice, queue NAV/yield/risk and resale.",2026-09-23
+Fees,https://spout.finance/docs/fee-structure/,"Gross premium fee, base withdrawal fee and separate instant haircut.",2026-09-23
+Settlement,https://spout.finance/docs/settlement-flow/,"Friday evaluation, Monday 9 ET settlement, existing distribution view.",2026-09-23
+Tranches,https://spout.finance/docs/lending-tranches/,Priority and excess distribution; targets are not guaranteed actual returns.,2026-09-23
+Waterfall,https://spout.finance/docs/loss-waterfall/,Insurance then Junior then Senior; conditional surplus stabilization.,2026-09-23
+Oracles,https://spout.finance/docs/oracles/,"Stork, separate supply attestations, stale/unavailable pauses, off-hours reduced frequency.",2026-09-23
+Security,https://spout.finance/docs/security-and-compliance/,"Token-2022 KYC and broker custody description, not a verified execution route.",2026-09-23
+Liquidation example,https://spout.finance/docs/liquidation-example/,"Hypothetical position parameters; currency text partially garbled in web extraction, not a UI defect finding.",2026-09-23
+Strike selection,https://spout.finance/docs/strike-selection/,Borrower-premium wording to reconcile with fee/settlement descriptions.,2026-09-23
+Collateral,https://spout.finance/docs/supported-collateral/,Eleven named assets; no TSLA in reviewed roster.,2026-09-23
+Solana compute budget,https://solana.com/docs/core/fees/compute-budget,Execution metering versus scheduling cost; shared-account and whole-block limits.,2026-09-23
+Beta portal,https://beta.spout.finance/,Public fetch returned no usable page body; email/passcode gateway remains self-reported here.,2026-09-23

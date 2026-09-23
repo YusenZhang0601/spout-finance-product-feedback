@@ -1,0 +1,91 @@
+=== TWEET 1/10 ===
+1/10
+0% interest is a rate, not the whole cost.
+
+I reviewed @SpoutFi for the @SuperteamEarn bounty: five product lessons and one blocked Devnet journey.
+
+What I tested, what the docs say, and what remains unknown.
+
+Report:
+https://github.com/YusenZhang0601/spout-finance-product-feedback/blob/main/submission_report_en.md
+
+=== TWEET 2/10 ===
+2/10
+The model: borrow against tokenized stocks; covered-call premiums help fund lenders.
+
+The trade-off: selling calls limits upside without removing stock downside.
+
+Premium received is not net profit. The useful question is what each participant owns, owes and receives.
+
+=== TWEET 3/10 ===
+3/10
+In my recorded Sept 23 Devnet session, the app showed 20 test USDC after external faucet funding. Max filled the order amount.
+
+Buy stayed at "Verification required."
+
+I did not complete a stock purchase or loan. Funding a wallet is not a Spout transaction.
+
+=== TWEET 4/10 ===
+4/10
+My API notes record:
+POST /api/kyc/onboard: 500
+POST /api/kyc/session: 502, persona_unavailable
+
+This is an onboarding bug report, not proof of a chain exploit.
+
+The status:null GET came BEFORE both POSTs. Backend root cause and Transfer Hook rejection remain unverified.
+
+=== TWEET 5/10 ===
+5/10
+F-01: Show shares AND debt.
+
+Hypothetical full assignment: 100 shares sold at $220; repay $10,000; rebuy at $250 = 48 shares.
+
+An uncapped sale with the same repayment leaves 60. Not a 52% wealth loss.
+
+Assumes no fees, premium credits, added cash or new debt.
+
+=== TWEET 6/10 ===
+6/10
+F-02: "Debt repaid" is not "collateral available."
+
+Spout's docs distinguish repayment, cycle close and settlement.
+
+Show separate debt and collateral states, with actual release eligibility and timezone. Do not promise an immediate unlock the product cannot deliver.
+
+=== TWEET 7/10 ===
+7/10
+F-03: Make exit terms tranche-specific.
+
+The docs give Junior a minimum 45-day notice. Queued Junior capital stops earning yield but remains loss-bearing until payment.
+
+Notice is not a payout-date guarantee. Earn was unavailable in my session; I did not test withdrawals.
+
+=== TWEET 8/10 ===
+8/10
+F-04: Explain the health factor.
+
+At 50% LTV and a 58.8% liquidation threshold:
+HF = 1.176, displayed as 1.18.
+Modeled price cushion = 1 - 0.50/0.588 = 14.966%, not 18%.
+
+Assumes fixed debt, shares and threshold. Show price freshness and operation status separately.
+
+=== TWEET 9/10 ===
+9/10
+F-05: Make the existing cycle statement reconcile.
+
+Who receives premium? What pays debt? Which fees apply? What reaches insurance and lenders?
+
+Track shares, cash, debt and option obligations. Do not count capped upside again as a separate cash loss.
+
+=== TWEET 10/10 ===
+10/10
+First, restore the supported onboarding path without weakening identity checks.
+
+Then make shares, cash, debt and exit rights clear before commitment.
+
+Report, bug notes and code:
+https://github.com/YusenZhang0601/spout-finance-product-feedback
+
+Independent bounty entry. AI-assisted review; not a mainnet audit.

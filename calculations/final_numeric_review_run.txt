@@ -1,0 +1,4 @@
+{"total": 27, "agree": 25, "disagree": 2}
+DISAGREEMENT baseline_d1 -0.738096 -> -0.7379480160432527
+DISAGREEMENT postshock_d2 1.560946 -> 1.5612635278690554
+High-precision BSM cross-checks and accounting identities passed. This is not a protocol audit.

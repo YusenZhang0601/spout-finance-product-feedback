@@ -1,0 +1,130 @@
+{
+  "props": {
+    "pageProps": {
+      "listing": {
+        "id": "ae1041af-2378-4a17-b21f-8d74a4505f96",
+        "title": "Spout Finance Product Feedback",
+        "slug": "product-feedback-spout-finance",
+        "description": "<h2 class=\"heading-node\">About this bounty</h2><p class=\"text-node\">Join the Spout Finance Beta Intelligence Challenge to stress-test our Solana-based DeFi brokerage offering the buying and selling of tokenized equities and 0% interest borrowing against them. We are granting gated access to experienced content creators who are DeFi users, traders, and tokenization researchers to find bugs, evaluate our model, and deliver sharp critical teardowns before our wider public launch.</p><p class=\"text-node\"></p><p class=\"text-node\"><strong>Bounty Task: </strong>Test core platform flows, execute testnet transactions, document UX friction, and submit a structured report covering, product feature recommendations, and a deep DeFi/tokenization analysis alongside publishing them all in one piece of public content.</p><p class=\"text-node\"></p><p class=\"text-node\"><strong>Evaluation Criteria</strong></p><p class=\"text-node\">Product insight (30%)<br>DeFi/tokenization analysis (25%)<br>UX feedback (25%)<br>Public content quality (20%)</p><p class=\"text-node\"></p><p class=\"text-node\"><strong>Resources</strong></p><p class=\"text-node\"><strong>Links &amp; Channels</strong></p><p class=\"text-node\">• Website: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"http://spout.finance\">spout.finance</a></p><p class=\"text-node\">• Beta App Access: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"link\" href=\"http://beta.spout.finance\">beta.spout.finance</a> (Note: Access requires a beta code; participants should request one from @SpoutHelp on Telegram)</p><p class=\"text-node\">• Telegram Community: t.me/+VhFiZ2OkWBRiYmQx</p><p class=\"text-node\">• X (Twitter): x.com/SpoutFi</p><p class=\"text-node\"></p><p class=\"text-node\"><strong>Reference Material for Product Reviewers</strong></p><p class=\"text-node\">To guide you in publishing a deep technical and economic review rather than just a superficial walkthrough, suggest your focus research around these core protocol mechanics found on the product site and documentation:</p><p class=\"text-node\">1. The 0% Interest &amp; Collateral Model: Review how users deposit tokenized US equities at a 50% Loan-to-Value (LTV) ratio to draw stablecoins without ongoing interest payments.</p><p class=\"text-node\">2. Yield Generation &amp; Options Strategy: Analyze how Spout finances the 0% borrowing rate and funds lender yields via systemic covered call option strategies on regulated US markets (capturing the variance risk premium).</p><p class=\"text-node\">3. Current Beta Scope: Note that the platform currently features active borrowing flows (with lending market rolling out soon), so feedback should focus heavily on the equity backed borrowing UX, collateral management, and options backed stability model.</p><p class=\"text-node\"></p><p class=\"text-node\"><strong>Terms</strong></p><p class=\"text-node\">Participation requires genuine testing, active platform interaction, and a completed submission report. Submissions consisting solely of superficial or promotional content without substantive product testing or bug discovery will be disqualified.</p>",
+        "deadline": "2026-09-23T22:59:59.000Z",
+        "commitmentDate": "2026-09-28T22:59:59.000Z",
+        "eligibility": [
+          {
+            "type": "text",
+            "order": 1,
+            "optional": true,
+            "question": "Was there anything about this bounty that was confusing or unclear? Please explain"
+          }
+        ],
+        "status": "OPEN",
+        "token": "USDC",
+        "rewardAmount": 1000,
+        "rewards": {
+          "1": 250,
+          "2": 200,
+          "3": 150,
+          "4": 100,
+          "5": 100,
+          "6": 100,
+          "7": 100
+        },
+        "maxBonusSpots": 0,
+        "sponsorId": "3644a972-2569-479f-867e-3ebe8b6997b7",
+        "isPublished": true,
+        "skills": [
+          {
+            "skills": "Other",
+            "subskills": [
+              "Product Feedback",
+              "Product Manager",
+              "Operations",
+              "Data Analytics"
+            ]
+          }
+        ],
+        "type": "bounty",
+        "requirements": null,
+        "isWinnersAnnounced": false,
+        "region": "Global",
+        "pocSocials": "https://t.me/iamgabrielll",
+        "publishedAt": "2026-09-09T10:04:50.224Z",
+        "isPrivate": false,
+        "agentAccess": "HUMAN_ONLY",
+        "hackathonId": null,
+        "compensationType": "fixed",
+        "maxRewardAsk": null,
+        "minRewardAsk": null,
+        "isFndnPaying": false,
+        "winnersAnnouncedAt": null,
+        "isPro": false,
+        "sponsor": {
+          "name": "Spout",
+          "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1788436056/earn-sponsor/iqjirae89tg7rkkrei6i.png",
+          "slug": "spoutfi",
+          "url": "https://spout.finance",
+          "entityName": "Spout Finance ",
+          "isVerified": false,
+          "isCaution": false
+        },
+        "poc": {
+          "id": "2711d9c3-dbd1-47a3-b5d5-3daf9497a395",
+          "firstName": "Onuorah ",
+          "lastName": "Gabriel ",
+          "username": "greatgabriell",
+          "photo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1788435983/earn-pfp/i6nvdu53haibd2evrozh.png"
+        },
+        "Hackathon": null
+      },
+      "isPreview": false,
+      "dehydratedState": {
+        "mutations": [],
+        "queries": [
+          {
+            "dehydratedAt": 1790092755746,
+            "state": {
+              "data": 77,
+              "dataUpdateCount": 1,
+              "dataUpdatedAt": 1790092755746,
+              "error": null,
+              "errorUpdateCount": 0,
+              "errorUpdatedAt": 0,
+              "fetchFailureCount": 0,
+              "fetchFailureReason": null,
+              "fetchMeta": null,
+              "isInvalidated": false,
+              "status": "success",
+              "fetchStatus": "idle"
+            },
+            "queryKey": [
+              "submissionCount",
+              "ae1041af-2378-4a17-b21f-8d74a4505f96"
+            ],
+            "queryHash": "[\"submissionCount\",\"ae1041af-2378-4a17-b21f-8d74a4505f96\"]"
+          }
+        ]
+      }
+    },
+    "__N_SSP": true
+  },
+  "page": "/earn/listing/[slug]",
+  "query": {
+    "privy_oauth_state": "[REDACTED_OAUTH_STATE]",
+    "privy_oauth_provider": "google",
+    "privy_oauth_code": "[REDACTED_OAUTH_CODE]",
+    "slug": "product-feedback-spout-finance"
+  },
+  "buildId": "build-TfctsWXpff2fKS",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "dynamicIds": [
+    794280,
+    213071,
+    710202,
+    740037,
+    684109,
+    40550,
+    187193
+  ],
+  "gssp": true,
+  "scriptLoader": []
+}
