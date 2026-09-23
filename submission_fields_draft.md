@@ -25,9 +25,9 @@ https://github.com/YusenZhang0601/spout-finance-product-feedback/blob/main/submi
 *Target format:* URL (`https://...`)  
 *Value to Paste:*
 ```text
-[INSERT_PUBLISHED_TWEET_URL_HERE]
+https://x.com/Tonypyl/status/2102724047666847900
 ```
-*(Recommended: Link to the 1st tweet of your published 10-tweet X thread created from `evidence/10_TWEET_THREAD_DRAFT.md`)*
+*(Published 10-tweet thread by @Tonypyl covering BUG-01 and F-01 to F-05)*
 
 ---
 
